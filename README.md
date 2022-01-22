@@ -6,7 +6,7 @@ Maven parent POM for kjson projects
 
 Includes plugin definitions for deployment to Sonatype OSSRH.
 
-The current version is 1.0 - this version uses Kotlin 1.5.20.
+The current version is 2.1 - this version uses Kotlin 1.6.10.
 
 ## Usage
 
@@ -14,10 +14,10 @@ The current version is 1.0 - this version uses Kotlin 1.5.20.
   <parent>
     <groupId>io.kjson</groupId>
     <artifactId>kjson-maven</artifactId>
-    <version>1.0</version>
+    <version>2.1</version>
   </parent>
 ```
 
 Peter Wall
 
-2021-07-28
+2022-01-22
