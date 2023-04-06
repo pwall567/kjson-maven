@@ -2,12 +2,16 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [3.0] - 2023-03-10
+### Changed
+- `pom.xml`: updated to Kotlin 1.7.21
+
 ## [2.1] - 2022-01-22
-### Added
+### Changed
 - `pom.xml`: pinned JUnit version to 4.13.2
 
 ## [2.0] - 2022-01-21
-### Added
+### Changed
 - `pom.xml`: updated to Kotlin 1.6.10
 
 ## [1.0] - 2021-07-28
