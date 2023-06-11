@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [3.1] - 2023-06-08
+### Changed
+- `pom.xml`: made `java.version` variable, updated `nexus-staging-maven-plugin` version
+
 ## [3.0] - 2023-03-10
 ### Changed
 - `pom.xml`: updated to Kotlin 1.7.21
