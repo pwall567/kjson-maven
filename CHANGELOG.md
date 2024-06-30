@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [5.0] - 2024-07-01
+### Changed
+- `pom.xml`: updated to Kotlin 1.9.24
+
 ## [4.1] - 2024-07-01
 ### Added
 - `deploy.yml`: converted project to GitHub Actions

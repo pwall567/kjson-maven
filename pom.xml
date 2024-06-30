@@ -17,8 +17,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.version>1.8</java.version>
-    <kotlin.version>1.8.22</kotlin.version>
-    <dokka.version>1.8.20</dokka.version>
+    <kotlin.version>1.9.24</kotlin.version>
+    <dokka.version>1.9.20</dokka.version>
   </properties>
 
   <licenses>
@@ -92,8 +92,8 @@
           <version>${kotlin.version}</version>
           <configuration>
             <jvmTarget>${java.version}</jvmTarget>
-            <languageVersion>1.8</languageVersion>
-            <apiVersion>1.8</apiVersion>
+            <languageVersion>1.9</languageVersion>
+            <apiVersion>1.9</apiVersion>
           </configuration>
           <executions>
             <execution>

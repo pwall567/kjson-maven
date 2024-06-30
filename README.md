@@ -9,7 +9,7 @@ Maven parent POM for kjson projects
 
 Includes plugin definitions for deployment to Sonatype OSSRH.
 
-The current version is 4.1 &ndash; this version uses Kotlin 1.8.22, and the default Java version is 1.8.
+The current version is 5.0 &ndash; this version uses Kotlin 1.9.24, and the default Java version is 1.8.
 
 ## Usage
 
@@ -17,7 +17,7 @@ The current version is 4.1 &ndash; this version uses Kotlin 1.8.22, and the defa
   <parent>
     <groupId>io.kjson</groupId>
     <artifactId>kjson-maven</artifactId>
-    <version>4.1</version>
+    <version>5.0</version>
   </parent>
 ```
 
