@@ -6,7 +6,7 @@
 
   <groupId>io.kjson</groupId>
   <artifactId>kjson-maven</artifactId>
-  <version>4.1</version>
+  <version>5.0</version>
   <name>${project.groupId}:${project.artifactId}</name>
   <description>
     Parent POM for kjson Maven Kotlin projects
