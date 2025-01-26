@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [6.0] - 2025-01-25
+### Changed
+- `pom.xml`: updated to Kotlin 2.0.21
+- `pom.xml`: Added `kotlinx-coroutines-core` to dependency management
+
 ## [5.0] - 2024-07-01
 ### Changed
 - `pom.xml`: updated to Kotlin 1.9.24
